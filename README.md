@@ -12,5 +12,5 @@ Skills: JavaScript, React, Bootstrap
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoV-dev)&theme=radical](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoV-dev&show_icons=true&theme=dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoV-dev&show_icons=true&theme=radical)  
 
