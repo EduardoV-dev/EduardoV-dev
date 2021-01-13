@@ -1,7 +1,5 @@
 ### Hi there 👋, Eduardo Varela here!
 #### A System Engineer student and Front end Developer
-![A System Engineer student and Front end Developer](http://hd.wallpaperswide.com/thumbs/coding_background-t2.jpg)
-
 Study at Engineering National University from Nicaragua, passionate about coding and learning new technologies. Improving everyday in order to find my desired job.
 
 Skills: JavaScript, React, Bootstrap
