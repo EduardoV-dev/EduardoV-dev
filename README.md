@@ -10,17 +10,17 @@ Skills: JavaScript, React, Bootstrap
 - 📫 How to reach me: eduardovarela139@gmail.com 
 - 😄 Pronouns: He/Him   
 
+```js
 const myStack = {
     pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev"],
+    askMeAbout: ["App Dev", "Web Dev"],
     technologies:{
-        desktop:["c#", "java","java FX", "electronJS"],
-        backEnd: ["strapi", "NodeJs", "django"],
-        fronEnd: ["react", "nextjs", "bootstrap", "bulma", "material ui"],
-        mobileApp: ["react native"],
-        database: ["sqlServer","mySql", "mongodb"]
+        Desktop:["C#","Java FX", "ElectronJS"],
+        FrontEnd: ["React", "Bootstrap", "Bulma"],
+        Database: ["SQL Server","MySQL"]
     },
 }
+```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoV-dev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
