@@ -15,9 +15,9 @@ const myStack = {
     pronouns: "He" | "Him",
     askMeAbout: ["App Dev", "Web Dev"],
     technologies:{
-        Desktop:["C#","Java FX", "ElectronJS"],
+        Desktop:["C#", "Java FX", "ElectronJS"],
         FrontEnd: ["React", "Bootstrap", "Bulma"],
-        Database: ["SQL Server","MySQL"]
+        Database: ["SQL Server", "MySQL"]
     },
 }
 ```
