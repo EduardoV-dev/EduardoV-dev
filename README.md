@@ -6,14 +6,12 @@ Skills: JavaScript, React, Bootstrap
 
 - 🔭 I’m currently working on my skills 
 - 🌱 I’m currently learning new Technologies 
-- 💬 Ask me about Front End 
 - 📫 How to reach me: eduardovarela139@gmail.com 
-- 😄 Pronouns: He/Him   
 
 ```js
 const myStack = {
     pronouns: "He" | "Him",
-    askMeAbout: ["App Dev", "Web Dev"],
+    askMeAbout: ["Front End"],
     technologies:{
         Desktop:["C#", "Java FX", "ElectronJS"],
         FrontEnd: ["React", "Bootstrap", "Bulma"],
