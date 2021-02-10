@@ -14,7 +14,7 @@ const myStack = {
     askMeAbout: ["Front End"],
     technologies:{
         Desktop:["C#", "Java FX", "ElectronJS"],
-        FrontEnd: ["React", "Bootstrap", "Bulma"],
+        FrontEnd: ["React", "Next", "Bootstrap"],
         Database: ["SQL Server", "MySQL"]
     },
 }
