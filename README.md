@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Varela</h1>
-<h3 align="center">Self-taught Front end Developer, passionate about code</h3>
+<h3 align="center">SFull Stack Developer, Always shipping great features and quality code</h3>
 
 - 👨‍💻 All of my projects are available at [https://eduardov-dev.me](https://eduardov-dev.me)
 
